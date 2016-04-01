@@ -1,6 +1,4 @@
-import java.io.File;
-import java.io.IOException;
-import java.io.PrintWriter;
+package Lab3;
 
 /**
  * Created by Саня on 01.04.2016.
